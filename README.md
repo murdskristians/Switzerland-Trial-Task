@@ -28,3 +28,5 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Switzerland-Trial-Task
+## Live deploy:
+# https://inisev-test.netlify.app/
